@@ -1,0 +1,380 @@
+((("swift-mode-hook" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("/Users/kayama/myTool/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("(id) selector:(SEL) name:(NSString *) object:(id)" .
+   [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("addObserver" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("defaultCenter" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("NSNotificationCenter" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("(NSNotification *)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("screenBrightnessDidChange" .
+   [0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("(CGFloat x, CGFloat y, CGFloat width, CGFloat height)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("CGRectMake" .
+   [0 1 0 0 0 0 0 0 0 0])
+  ("(CGRect)" .
+   [0 0 0 0 0 0 0 1])
+  ("initWithFrame" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("alloc" .
+   [0 0 0 1 0])
+  ("UIButton" .
+   [0 0 0 1 1 0 0 0])
+  ("frame" .
+   [0 0 1 2 0])
+  ("tag" .
+   [0 0 1])
+  ("title" .
+   [0 0 1 0 0])
+  ("scheduleLocalNotification" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("sharedApplication" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UIApplication" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("localNotification" .
+   [0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("stopMonitoring" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("CBPeripheralStateDisconnected" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("state" .
+   [0 1 0 0 0])
+  ("peripheralManager" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("self" .
+   [0 0 3 4])
+  ("animated" .
+   [0 0 0 1 0 0 0 0])
+  ("BOOL" .
+   [1 0 0 0])
+  ("viewWillAppear" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("count" .
+   [4 0 0 0 0])
+  ("line" .
+   [1 0 0 0])
+  ("image_download_wget" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cmd" .
+   [1 0 0])
+  ("True" .
+   [0 0 0 1])
+  ("img_url" .
+   [0 0 1 0 1 0 0])
+  ("image_download" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("def" .
+   [1 0 0])
+  ("downLoad" .
+   [0 0 0 1 0 0 0 0])
+  ("alias" .
+   [3 0 0 0 0])
+  ("string2double" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("vec_y" .
+   [3 0 0 0 0])
+  ("vec_x" .
+   [4 0 0 0 0])
+  ("can" .
+   [1 0 0])
+  ("input" .
+   [1 0 0 0 0])
+  ("argv" .
+   [5 0 0 1])
+  ("char" .
+   [1 0 0 0])
+  ("argc" .
+   [2 0 0 0])
+  ("theApp" .
+   [1 0 0 0 0 0])
+  ("sizeof" .
+   [1 0 0 0 0 0])
+  ("100000000" .
+   [1 0 0 0 0 0 0 0 0])
+  ("stack" .
+   [0 0 0 0 1])
+  ("100000" .
+   [1 0 0 0 0 0])
+  ("test" .
+   [1 0 0 0])
+  ("GetN" .
+   [2 0 0 0])
+  ("this" .
+   [3 0 0 0])
+  ("GetDist" .
+   [1 0 0 0 0 0 1])
+  ("District" .
+   [2 0 0 0 0 0 0 0])
+  ("message" .
+   [0 0 0 0 0 0 1])
+  ("len" .
+   [1 0 0])
+  ("vec" .
+   [2 0 0])
+  ("for" .
+   [4 0 0])
+  ("vector" .
+   [1 0 1 1 0 0])
+  ("inline" .
+   [0 0 1 0 0 0])
+  ("include" .
+   [4 0 0 4 0 1 1])
+  ("double" .
+   [5 0 2 4 0 0])
+  ("cout" .
+   [4 0 0 0])
+  ("endl" .
+   [4 0 0 0])
+  ("return" .
+   [3 0 1 2 0 0])
+  ("for(int i=0;i< ;i++)" .
+   [0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("using" .
+   [1 0 0 2 1])
+  ("namespace" .
+   [1 0 0 1 2 0 0 0 0])
+  ("std" .
+   [1 0 1])
+  ("class" .
+   [1 0 1 0 0])
+  ("virtual" .
+   [2 0 1 0 0 0 0])
+  ("void" .
+   [8 0 1 1])
+  ("int" .
+   [17 0 1])
+  ("float" .
+   [0 0 1 0 0])
+  ("sdjafdsfa" .
+   [0 0 1 0 0 1 0 0 0])
+  ("idsfa" .
+   [0 0 1 0 0])
+  ("extern" .
+   [0 0 0 0 1 1])
+  ("func" .
+   [3 0 1 0])
+  ("if" .
+   [2 0])
+  ("kaijo" .
+   [0 0 0 1 0])
+  ("else" .
+   [1 0 0 0])
+  ("static" .
+   [2 0 0 0 0 0])
+  ("data" .
+   [13 0 0 0])
+  ("output" .
+   [0 0 0 2 0 1])
+  ("dist_N" .
+   [6 0 0 0 0 1])
+  ("dist" .
+   [8 0 0 0])
+  ("i_district" .
+   [0 0 0 2 0 0 0 0 0 2])
+  ("GetPopulation" .
+   [1 0 0 1 1 0 0 0 0 0 0 0 0])
+  ("Group" .
+   [1 0 0 0 0])
+  ("Asia" .
+   [3 0 0 0])
+  ("population" .
+   [0 0 3 1 0 0 0 0 0 0])
+  ("Saitama" .
+   [2 0 0 0 0 0 0])
+  ("Unit" .
+   [1 0 0 0])
+  ("China" .
+   [3 0 0 0 0])
+  ("SetPopulation" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("add" .
+   [2 0 0])
+  ("/dev/null" .
+   [1 0 0 0 0 0 0 0 0])
+  ("10000000" .
+   [1 0 0 0 0 0 0 0])
+  ("1000000" .
+   [2 0 0 0 0 0 0])
+  ("while" .
+   [1 0 0 0 0])
+  ("ifs" .
+   [2 0 0])
+  ("string" .
+   [2 0 0 0 0 0])
+  ("vec_data" .
+   [3 0 0 0 0 1 0 0])
+  ("split" .
+   [1 0 0 0 0])
+  ("sp_data" .
+   [2 0 0 0 0 0 0])
+  ("prefix" .
+   [0 0 0 4 0 1])
+  ("tmp" .
+   [1 0 0])
+  ("print" .
+   [3 0 0 0 0])
+  ("sys" .
+   [2 0 0])
+  ("argvs" .
+   [0 0 2 0 1])
+  ("html_url" .
+   [0 0 0 0 1 0 1 0])
+  ("replace" .
+   [0 0 0 0 1 0 0])
+  ("dir" .
+   [1 0 0])
+  ("file" .
+   [7 0 0 0])
+  ("Rename" .
+   [0 0 1 0 1 0])
+  ("EXTName" .
+   [0 0 1 1 0 0 0])
+  ("var" .
+   [5 0 2])
+  ("Bleacon" .
+   [0 0 1 0 0 0 0])
+  ("uuid" .
+   [0 0 1 0])
+  ("major" .
+   [0 0 1 0 0])
+  ("minor" .
+   [0 0 0 0 1])
+  ("measuredPower" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("window" .
+   [0 1 0 0 0 0])
+  ("setRootViewController" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("(UIViewController *)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("UILabel" .
+   [0 0 0 2 0 0 0])
+  ("let" .
+   [2 0 1])
+  ("frame:" .
+   [0 0 0 1 0 0])
+  ("super" .
+   [0 0 1 0 0])
+  ("tabbar-forward" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("locationManager" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("startRangingBeaconsInRegion" .
+   [1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("(CLBeaconRegion *)" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("beaconResion" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("swift-mode" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("skView" .
+   [1 0 2 2 0 0])
+  ("skView:SKView" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("scene1:SKScene" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("SKView" .
+   [0 0 1 0 0 0])
+  ("View" .
+   [0 0 0 2])
+  ("showsFPS" .
+   [0 0 0 1 0 0 0 0])
+  ("true" .
+   [0 0 0 1])
+  ("Scene1" .
+   [0 0 0 5 0 0])
+  ("SKScene" .
+   [0 0 0 1 0 0 0])
+  ("size:" .
+   [0 0 1 0 0])
+  ("WWidht" .
+   [0 0 2 0 0 0])
+  ("WHeight" .
+   [0 0 2 0 0 0 0])
+  ("CGSizeMake" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("backgroundColor" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("SKColor" .
+   [0 0 0 2 0 0 0])
+  ("blueColor" .
+   [0 0 1 0 0 0 0 0 0])
+  ("view" .
+   [1 0 0 0])
+  ("addSubview" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("presentScene" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("WWidth" .
+   [1 0 0 0 0 0])
+  ("150" .
+   [1 0 0])
+  ("SHeight" .
+   [0 0 2 1 0 0 0])
+  ("whiteColor" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("50" .
+   [1 0])
+  ("physicsBody" .
+   [0 0 0 4 0 0 0 0 0 0 0])
+  ("SKPhysicsBody" .
+   [0 0 0 2 1 0 0 0 0 0 0 0 0])
+  ("edgeLoopFromRect:CGRect" .
+   [0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("scene1" .
+   [2 0 1 1 0 0])
+  ("physicsWorld" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("gravity" .
+   [0 0 0 1 0 0 0])
+  ("CGVectorMake" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("x:0" .
+   [1 0 0])
+  ("y:0" .
+   [1 0 0])
+  ("height" .
+   [0 0 0 1 0 0])
+  ("width" .
+   [1 0 0 0 0])
+  ("SKShapeNode" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("circleOfRadius:" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("ball" .
+   [5 0 0 0])
+  ("fillColor" .
+   [0 0 1 0 0 0 0 0 0])
+  ("position" .
+   [0 0 1 0 0 0 0 0])
+  ("CGPointMake" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("SWidth" .
+   [0 0 1 0 0 0])
+  ("addChild" .
+   [0 0 0 0 1 0 0 0])
+  ("c" .
+   [1])
+  ("circleOfRadius:5" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("restitution" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("99" .
+   [1 0])
+  ("ballGen" .
+   [1 0 0 0 0 0 0])
+  ("WHeight:CGFloat" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("SKAction" .
+   [1 0 0 0 0 0 0 0])
+  ("add-to-list" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("flymake-err-line-patterns" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])))
